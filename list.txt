@@ -4,3 +4,5 @@ facebook.com
 www.facebook.com
 es-la.facebook.com
 m.facebook.com
+es.wikipedia.org
+vive.com.co
